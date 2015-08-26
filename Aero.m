@@ -1,3 +1,7 @@
+%% Adding this to figure out the Git process
+
+
+
 function [e] = Aero(V)
 % Michael Kudla - Coefficient for loop addition
 % edited by Bryce Hill - 14/15
